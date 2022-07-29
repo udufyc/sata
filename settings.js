@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -63,14 +63,14 @@ global.location = "iran, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['989175919318']
 global.ownertag = '989175919318' //ur tag number
-global.botname = 'SATA Bot MD V4' //ur bot name
+global.botname = 'SATA Bot MD V4' //ur نام ربات 
 global.linkz = "wa.me/989175919318" //your theme url which will be displayed on whatsapp
-global.websitex = "instagram.com/sata_iran_com" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.websitex = "instagram.com/sata_iran_com" //اینستاگرام 
+global.botscript = 'wa.me/989175919318' //مالک ربات 
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "SATA Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄SATA Guy Xeon" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -100,21 +100,21 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.sessionName = 'session'
+global.sessionName = 'جلسه'
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    success: 'تایید ✓',
+    admin: 'فقط ادمین کانال می‌تواند از این دستوراستفاده کنند',
+    botAdmin: 'ربات ساتا باید ادمین باشد,
+    owner: 'فقط مالک ربات میتواند از این دستور استفاده کند',
+    group: 'فقط در گروه استفاده کنید',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    wait: 'لطفاصبر کنید,
+    linkm: 'کدام لینک,
+    error: 'خطا!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
