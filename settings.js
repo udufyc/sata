@@ -62,10 +62,10 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['989175919318']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.ownertag = '989175919318' //ur tag number
+global.botname = 'SATA Bot MD V4' //ur bot name
+global.linkz = "wa.me/989175919318" //your theme url which will be displayed on whatsapp
+global.websitex = "instagram.com/sata_iran_com" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
